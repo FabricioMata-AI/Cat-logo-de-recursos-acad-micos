@@ -1,0 +1,1 @@
+print("Catálogo de Recursos Académicos - Proyecto en desarrollo")

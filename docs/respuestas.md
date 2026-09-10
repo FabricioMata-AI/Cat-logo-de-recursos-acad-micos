@@ -1,0 +1,2 @@
+¿Qué ventaja tiene registrar las dependencias del proyecto en requirements.txt en lugar de compartir la carpeta .venv? 
+R: Registrar las dependencias en requirements.txt en lugar de compartir la carpeta .venv es mucho más práctico porque el archivo es ligero (unos KB vs cientos de MB), funciona en cualquier sistema operativo, y le permite a cualquier persona recrear el mismo entorno con pip install -r requirements.txt, mientras que .venv está atado a la máquina donde se creó y normalmente ni siquiera funciona si lo mueves a otra computadora.
