@@ -30,3 +30,8 @@ catalogo_recursos/
 
 ## Dependencias
 Ver `requirements.txt` para la lista completa de bibliotecas necesarias.
+
+## Próximas mejoras
+- Implementar búsqueda y filtrado de recursos.
+- Agregar sistema de recomendaciones.
+- Crear interfaz de usuario para consulta del catálogo.
