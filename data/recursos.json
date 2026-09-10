@@ -14,5 +14,31 @@
     "tema": "desarrollo web",
     "nivel": "básico",
     "autor": "Mozilla"
+  },
+  [
+  {
+    "id": 1,
+    "tipo": "libro",
+    "titulo": "Clean Code",
+    "tema": "programación",
+    "nivel": "intermedio",
+    "autor": "Robert C. Martin"
+  },
+  {
+    "id": 2,
+    "tipo": "sitio web",
+    "titulo": "MDN Web Docs",
+    "tema": "desarrollo web",
+    "nivel": "básico",
+    "autor": "Mozilla"
+  },
+  {
+    "id": 3,
+    "tipo": "video",
+    "titulo": "Git y GitHub para principiantes",
+    "tema": "control de versiones",
+    "nivel": "básico",
+    "autor": "freeCodeCamp"
   }
+]
 ]
