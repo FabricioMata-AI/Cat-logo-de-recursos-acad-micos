@@ -1,2 +1,6 @@
 ¿Qué ventaja tiene registrar las dependencias del proyecto en requirements.txt en lugar de compartir la carpeta .venv? 
-R: Registrar las dependencias en requirements.txt en lugar de compartir la carpeta .venv es mucho más práctico porque el archivo es ligero (unos KB vs cientos de MB), funciona en cualquier sistema operativo, y le permite a cualquier persona recrear el mismo entorno con pip install -r requirements.txt, mientras que .venv está atado a la máquina donde se creó y normalmente ni siquiera funciona si lo mueves a otra computadora.
+R: Registrar las dependencias en requirements.txt en lugar de compartir la carpeta .venv es mucho más práctico porque el archivo es ligero (unos KB vs cientos de MB), funciona en cualquier sistema operativo, y le permite a cualquier persona recrear el mismo entorno con pip install -r requirements.txt, mientras que .venv está atado a la máquina donde se creó y normalmente ni siquiera funciona si lo mueves a otra computadora. 
+
+Pregunta (Sección 12): ¿Por qué el repositorio que tienes ahora en tu computadora no es el mismo concepto que el fork creado en GitHub?
+
+Respuesta: El fork es una copia remota hospedada en los servidores de GitHub vinculada a tu cuenta personal, mientras que el repositorio local es el conjunto de archivos y el historial de Git descargados directamente en el almacenamiento de tu computadora física. El fork sirve como puente de sincronización en la nube para proponer cambios (Pull Request), mientras que la copia local es el entorno donde realmente se edita y ejecuta el código.
