@@ -7,4 +7,4 @@
 5. Directory of Open Access Journals (DOAJ)
 
 - Fecha de publicación / Actualización
-- Idioma del recurso
+- Idioma del recurso f
